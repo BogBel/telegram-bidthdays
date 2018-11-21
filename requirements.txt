@@ -1,0 +1,5 @@
+aiohttp==3.4.4
+aiotg==0.9.9
+pytest==4.0.0
+pytz==2018.7
+SQLAlchemy==1.2.14
